@@ -1,2 +1,2 @@
 # GetLocation_tdh
-An android utility for obtaining location information. 
+Android code for obtaining gps coordinates. 
